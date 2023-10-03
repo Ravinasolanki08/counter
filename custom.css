@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 100vh;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 1px red solid; */
+}
+
+span {
+    font-size: 70px;
+    padding: 10px;
+}
+
+.btn {
+    background: none;
+    outline: none;
+    border: 1px black solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+}
